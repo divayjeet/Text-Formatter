@@ -13,6 +13,7 @@ const Textfrom=(props) =>{
        setText(newText);
     }
     const ClearText=()=>{
+        // jsjsjj
        setText(" ");
     }
 
