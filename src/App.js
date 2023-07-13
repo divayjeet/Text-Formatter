@@ -5,9 +5,9 @@ import Textfrom from './component/Textfrom';
 function App() {
   return (
     <>
-      <Navbar tittle="SavageTown" about="About Us" />
+      <Navbar tittle="Text-Format" />
       <div className="container my-3">
-        <Textfrom heading="Text Here " />
+        <Textfrom heading="Write Anything Here " />
       </div>
     </>
   );
